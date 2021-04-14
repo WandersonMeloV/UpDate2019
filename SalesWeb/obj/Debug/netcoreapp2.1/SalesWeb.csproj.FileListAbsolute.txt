@@ -1,0 +1,17 @@
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.deps.json
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.runtimeconfig.json
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.runtimeconfig.dev.json
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.dll
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.pdb
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csprojAssemblyReference.cache
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.AssemblyInfoInputs.cache
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.AssemblyInfo.cs
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CoreCompileInputs.cache
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorAssemblyInfo.cache
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorAssemblyInfo.cs
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorTargetAssemblyInfo.cache
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.dll
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.pdb
+C:\Cursos\NetCore\15° MVC AspNetCore\Projeto\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.genruntimeconfig.cache
